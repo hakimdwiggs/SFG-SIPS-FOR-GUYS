@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<HTML>
+  <head>
+    <title>SFG-SIPS FOR GUYS</title>
+    <link rel='stylesheet' href='styles.css'>
+    </head>
+
+    <body>
+
+    <!--header-->
+      <header>
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Location</a></li>
+          <li><a href="#">Follow</a></li>
+          <li class="title">SFG</li>
+          </ul>
+        </header>
+
+      <!--SFG-->
+      <div id="center">
+      <div class="effects">
+        <h1 class="SIPS">SFG</h1>
+        </div>
+        </div>
+
+
+        <!--about-->
+      <div class="about">
+        <div class="container">
+          <div class="image-container">
+          <img src="guys.png">
+          </div>
+          <h2>SIPS For Guys</h2>
+        <h3>Beyonce and the destiny's Child group once told there ladies to leave their men at home, well now its our turn.<br> SFG is a club for Philadelphia men to leave their women and enjoy a fun time with their friends.</h3>
+        </div>
+        <div class="container">
+          <div class="image-container">
+          <img src="taco.png">
+          </div>
+          <h2>What is Sips</h2>
+        <h3>SIPS is a group of bars that came together to provide a perfect afterwork event.<br>
+        More information on the actual sips event can be found here:
+        <a href='https://centercityphila.org/explore-center-city/ccd-sips'>SIPS</a></h3>
+        </div>
+        </div>
+
+        <div class="location">
+          <div>
+            <ol class="cursive">
+              <li>Barry's Bootcamp 1911 Sansom St., Philadelphia PA, 19103</li>
+              <li>Blue Sole Shoes 1805 Chestnut St., Philadelphia PA, 19103</li>
+              <li>DFTI Boutique 2032 Chestnut St., Philadelphia PA, 19103</li>
+              <li>Jason Matthew Salon 1735 Chestnut St., 2nd Fl., Philadelphia, PA 19103</li>
+              <li>Joan Shepp 1811 Chestnut St., Philadelphia PA, 19103</li>
+              <li>LR2 Menswear The Shops at Liberty Place - 1625 Chestnut St., Philadelphia, PA, 19103</li>
+              <li>Mitchell & Ness Flagship Store 1306 Walnut Street, Philadelphia PA 19107</li>
+              <li>Open House Living 107 S. 13th St., Philadelphia PA, 19107</li>
+              <li>Rag and Bone 1601 Walnut St., Philadelphia PA, 19102</li>
+              <li>TAFT 1527 Walnut St., Philadelphia PA, 19102</li>
+              <li>Ursula's About Phace Rittenhouse Makeup Studio  1700 Sansom St., 201, 19103</li>
+              <li>Verde 108 S. 13th St., Philadelphia PA, 19107</li>
+              </ol>
+          </div>
+
+        <footer>
+          <div class="closing">
+            <h3> this is all just a joke! Please invite your women and enjoy sips this sumer</h3>
+            </div>
+            </footer>
+
+      </body>
+  </HTML>
